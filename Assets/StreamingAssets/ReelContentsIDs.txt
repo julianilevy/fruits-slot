@@ -1,0 +1,7 @@
+0 = Bell
+1 = Blackberry
+2 = Cherry
+3 = Grape
+4 = Lemon
+5 = Orange
+6 = Watermelon

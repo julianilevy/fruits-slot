@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb9388f46619934991c7505f9c1d620, type: 3}
+  m_Name: ReelData
+  m_EditorClassIdentifier: 
+  reelContentData:
+  - name: Bell
+    sprite: {fileID: 21300000, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 1, g: 0.98039216, b: 0, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 1, g: 0.98039216, b: 0, a: 1}
+  - name: Blackberry
+    sprite: {fileID: 21300006, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 0.5058824, g: 0.38039216, b: 1, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 0.5058824, g: 0.38039216, b: 1, a: 1}
+  - name: Cherry
+    sprite: {fileID: 21300012, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 0.8862745, g: 0, b: 0, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 0.8862745, g: 0, b: 0, a: 1}
+  - name: Grape
+    sprite: {fileID: 21300004, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 0.47058824, g: 0.5647059, b: 1, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 0.47058824, g: 0.5647059, b: 1, a: 1}
+  - name: Lemon
+    sprite: {fileID: 21300010, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 1, g: 0.98039216, b: 0, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 1, g: 0.98039216, b: 0, a: 1}
+  - name: Orange
+    sprite: {fileID: 21300008, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 0.9960785, g: 0.5803922, b: 0.10588236, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 0.99607843, g: 0.5803922, b: 0.105882354, a: 1}
+  - name: Watermelon
+    sprite: {fileID: 21300002, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameSprite: {fileID: 21300014, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    frameColor: {r: 0.67058825, g: 0.9372549, b: 0, a: 1}
+    backgroundSprite: {fileID: 21300016, guid: 863e87751d6d8f94ebddafa03d839a67, type: 3}
+    backgroundColor: {r: 0.67058825, g: 0.9372549, b: 0, a: 1}
